@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/homework/build",
+  "command": "/usr/bin/clang++-18   -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -o CMakeFiles/helloworld.dir/main.cpp.o -c /homework/main.cpp",
+  "file": "/homework/main.cpp",
+  "output": "CMakeFiles/helloworld.dir/main.cpp.o"
+}
+]
