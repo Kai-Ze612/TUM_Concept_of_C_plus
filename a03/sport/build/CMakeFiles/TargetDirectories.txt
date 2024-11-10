@@ -1,0 +1,3 @@
+/homework/sport/build/CMakeFiles/tests.dir
+/homework/sport/build/CMakeFiles/edit_cache.dir
+/homework/sport/build/CMakeFiles/rebuild_cache.dir

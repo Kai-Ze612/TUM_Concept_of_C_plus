@@ -1,0 +1,3 @@
+/homework/stockpiles/build/CMakeFiles/tests.dir
+/homework/stockpiles/build/CMakeFiles/edit_cache.dir
+/homework/stockpiles/build/CMakeFiles/rebuild_cache.dir

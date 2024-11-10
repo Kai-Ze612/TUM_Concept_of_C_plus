@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/homework/stockpiles/build",
+  "command": "/usr/bin/clang++-18 -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -std=gnu++23 -Wall -Wextra -Wpedantic -Werror -fsanitize=address -o CMakeFiles/tests.dir/stockpiles.cpp.o -c /homework/stockpiles/stockpiles.cpp",
+  "file": "/homework/stockpiles/stockpiles.cpp",
+  "output": "CMakeFiles/tests.dir/stockpiles.cpp.o"
+},
+{
+  "directory": "/homework/stockpiles/build",
+  "command": "/usr/bin/clang++-18 -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -std=gnu++23 -Wall -Wextra -Wpedantic -Werror -fsanitize=address -o CMakeFiles/tests.dir/tests/test_stockpiles.cpp.o -c /homework/stockpiles/tests/test_stockpiles.cpp",
+  "file": "/homework/stockpiles/tests/test_stockpiles.cpp",
+  "output": "CMakeFiles/tests.dir/tests/test_stockpiles.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -g -fsanitize=address CMakeFiles/tests.dir/stockpiles.cpp.o CMakeFiles/tests.dir/tests/test_stockpiles.cpp.o -o tests  /usr/lib64/libgtest_main.so.1.14.0 /usr/lib64/libgtest.so.1.14.0

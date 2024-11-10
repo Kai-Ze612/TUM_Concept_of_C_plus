@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/homework/sport/build",
+  "command": "/usr/bin/clang++-18 -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -std=gnu++23 -Wall -Wextra -Wpedantic -Werror -fsanitize=address -o CMakeFiles/tests.dir/sport.cpp.o -c /homework/sport/sport.cpp",
+  "file": "/homework/sport/sport.cpp",
+  "output": "CMakeFiles/tests.dir/sport.cpp.o"
+},
+{
+  "directory": "/homework/sport/build",
+  "command": "/usr/bin/clang++-18 -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -std=gnu++23 -Wall -Wextra -Wpedantic -Werror -fsanitize=address -o CMakeFiles/tests.dir/tests/test_sport.cpp.o -c /homework/sport/tests/test_sport.cpp",
+  "file": "/homework/sport/tests/test_sport.cpp",
+  "output": "CMakeFiles/tests.dir/tests/test_sport.cpp.o"
+}
+]
