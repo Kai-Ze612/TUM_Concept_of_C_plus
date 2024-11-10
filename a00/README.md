@@ -34,6 +34,6 @@ nano CMakeLists.txt
 `./helloworld John`
 
 ## run eval.sh file
-* build docker image `docker build -t your-image-name`
+* build docker image `docker build -t your-image-name .`
 * run assessment.sh ` docker run --rm -v $PWD/:/homework <image-name> /homework/assessment.sh`
 
